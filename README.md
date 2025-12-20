@@ -16,7 +16,10 @@ This project is a simple Student Management System written in Java. It allows tr
 ## D. Screenshots
 Below is the program output showing the statistics for the student array:
 
+![Program Output](docs/screenshots/output.png)
+
 ## E. Reflection
 In this assignment, I learned how to use object-oriented programming principles like encapsulation. I implemented private fields and public getters/setters to ensure data security. The most challenging part was managing an array of objects and calculating statistics through loops.
 
    
+
